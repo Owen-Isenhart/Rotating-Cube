@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Runner
+comment0.text=\r\n\ \r\n\r\n\ Owen\ Isenhart,\ rotating\ a\ cube\ in\ 3d\r\n
+comment1.params=
+comment1.target=Runner()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=v\ g
+comment4.target=void\ drawVertex(Vertex,\ java.awt.Graphics)
+comment5.params=v1\ v2\ c\ g
+comment5.target=void\ connectingLine(Vertex,\ Vertex,\ java.awt.Color,\ java.awt.Graphics)
+numComments=6

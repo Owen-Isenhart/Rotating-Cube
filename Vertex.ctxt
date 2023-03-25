@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Vertex
+comment1.params=x\ y\ z
+comment1.target=Vertex(double,\ double,\ double)
+comment2.params=orientation\ radians
+comment2.target=void\ calculateRotation(java.lang.String,\ double)
+numComments=3
